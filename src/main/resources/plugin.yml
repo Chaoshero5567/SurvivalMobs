@@ -1,0 +1,6 @@
+name: SpecialMobs
+version: '${project.version}'
+main: de.chaos.specialmobs.SpecialMobs
+api-version: 1.17
+prefix: MOBS
+authors: [ Chaoshero5567 ]
